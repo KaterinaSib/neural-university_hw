@@ -1,4 +1,5 @@
 \.gitignore
+.gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -124,6 +125,7 @@ celerybeat.pid
 
 # Environments
 \.env_15_pro
+.env_dev
 .env
 .venv
 env/
